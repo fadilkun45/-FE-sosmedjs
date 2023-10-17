@@ -29,10 +29,11 @@ export const Welcome = () => {
                 <p className="read-the-docs">
                     Click on the Vite and React logos to learn more
                 </p>
-                <Text fontWeight="bold" textTransform='uppercase' className="read-the-docs">
-                   vite | react | typescript | chakraui | react-router
+                <Text fontWeight="bold" textTransform='uppercase' className=" text-xl text-blue-950">
+                    vite | react | typescript | chakraui | react-router
                 </Text>
 
+            
             </VStack>
         </VStack>
     )
